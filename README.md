@@ -38,7 +38,8 @@ To develop a secure and transparent system that:
 
 ## 📁 Project Structure
 
-📦 Ensuring_the_Authenticity_and_Integrity_of_Drugs_by_using_Blockchain
+## 📦 Ensuring_the_Authenticity_and_Integrity_of_Drugs_by_using_Blockchain
+
 ├── DrugTracing/ # Django backend with full project files
 │ └── [models, views, urls, templates, etc.]
 ├── hello-eth/ # Node.js project with smart contract setup and node_modules
@@ -51,11 +52,6 @@ To develop a secure and transparent system that:
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies for Django
 
-yaml
-Copy
-Edit
-
----
 
 ## 📸 Functional Flow
 
@@ -69,13 +65,9 @@ Edit
 ## 💻 Setup Instructions
 
  1. Clone the repository
-```bash
 git clone https://github.com/THRIKAL-BOMMARAPU/Ensuring_the_Authenticity_and_Integrity_of_Drugs_by_using_Blockchain.git
 cd Ensuring_the_Authenticity_and_Integrity_of_Drugs_by_using_Blockchain
 2. Set up the Django Backend (DrugTracing)
-bash
-Copy
-Edit
 cd DrugTracing
 pip install -r ../requirements.txt
 python manage.py migrate
@@ -85,9 +77,7 @@ Open Remix IDE
 Create a new file Drug.sol and paste your smart contract code
 Compile and deploy it using Injected Web3 (connected to Ganache or MetaMask)
 4. Run the Node.js interface (hello-eth)
-bash
-Copy
-Edit
+
 cd hello-eth
 npm install
 node app.js     # or the main interaction file
