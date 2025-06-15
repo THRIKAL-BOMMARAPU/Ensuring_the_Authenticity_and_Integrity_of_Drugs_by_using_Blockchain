@@ -38,19 +38,17 @@ To develop a secure and transparent system that:
 
 ## 📁 Project Structure
 
-📦 Ensuring_the_Authenticity_and_Integrity_of_Drugs_by_using_Blockchain
-├── DrugTracing/                 # Django backend with full project files
+├── DrugTracing/                
 │   └── [models, views, urls, templates, etc.]
-├── hello-eth/                  # Node.js project with smart contract setup and node_modules
+├── hello-eth/                  
 │   ├── node_modules/
 │   ├── package.json
 │   ├── app.js / index.js
 │   └── ...
-├── Drug.sol                    # Solidity smart contract for drug lifecycle
-├── .gitignore                  # Git ignore rules
-├── README.md                   # Project documentation
-└── requirements.txt            # Python dependencies for Django
-
+├── Drug.sol                    
+├── .gitignore                 
+├── README.md                 
+└── requirements.txt            
 
 ## 📸 Functional Flow
 
