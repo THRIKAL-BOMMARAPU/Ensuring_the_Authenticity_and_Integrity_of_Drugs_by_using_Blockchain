@@ -82,7 +82,8 @@ cd hello-eth
 npm install
 node app.js     # or the main interaction file
 
-🔐 Smart Contract Details
+## 🔐 Smart Contract Details
+
 Contract Name: Drug.sol
 Key Functions:
 addDrug(): Add new drug batch
@@ -91,7 +92,7 @@ verifyDrug(): Authenticate batch via hash
 getDrugDetails(): Fetch on-chain info
 All drug records are secure, verifiable, and immutable.
 
-📦 Future Scope
+## 📦 Future Scope
 Integration with IPFS for decentralized data storage
 Deployment to Ethereum Testnet (Goerli/Sepolia)
 IoT integration for real-time environment sensing
