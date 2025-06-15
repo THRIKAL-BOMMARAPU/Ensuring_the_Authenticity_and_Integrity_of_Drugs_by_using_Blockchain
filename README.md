@@ -19,8 +19,7 @@ To develop a secure and transparent system that:
 - ✅ Ethereum smart contract for drug lifecycle tracking (`Drug.sol`)
 - ✅ Local Ethereum blockchain (Ganache) for development
 - ✅ Django backend for record storage and admin operations
-- ✅ AngularJS frontend for role-based dashboards
-- ✅ QR code generation & Merkle hashing for data integrity
+- ✅ Html,css,javascript frontend for role-based dashboards
 - ✅ Web3.js + MetaMask for blockchain interaction
 
 ---
