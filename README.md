@@ -39,12 +39,12 @@ To develop a secure and transparent system that:
 ## 📁 Project Structure
 
 ├── DrugTracing/                
-│   └── [models, views, urls, templates, etc.]
-├── hello-eth/                  
-│   ├── node_modules/
-│   ├── package.json
-│   └── ...
-├── Drug.sol                    
+│   └── [models, views, urls, templates, etc.]                                                                                                                                                                       
+├── hello-eth/                                                                                                                                                                                                       
+│   ├── node_modules/                                                                                                                                                                                                
+│   ├── package.json                                                                                                                                                                                                 
+│   └── ...                                                                                                                                                                                                          
+├── Drug.sol                                                                                                                                                                                                         
 ├── .gitignore                 
 ├── README.md                 
 └── requirements.txt            
