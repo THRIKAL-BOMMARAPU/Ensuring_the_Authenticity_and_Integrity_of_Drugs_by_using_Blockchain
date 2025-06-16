@@ -43,7 +43,6 @@ To develop a secure and transparent system that:
 ├── hello-eth/                  
 │   ├── node_modules/
 │   ├── package.json
-│   ├── app.js / index.js
 │   └── ...
 ├── Drug.sol                    
 ├── .gitignore                 
