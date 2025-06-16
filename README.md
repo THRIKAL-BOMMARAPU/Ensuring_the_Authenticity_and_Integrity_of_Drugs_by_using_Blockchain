@@ -129,13 +129,6 @@ All records are **secure**, **verifiable**, and **immutable** on the blockchain.
 
 ---
 
-## 🙌 Acknowledgements
 
-* [Ganache](https://trufflesuite.com/ganache/)
-* [Remix IDE](https://remix.ethereum.org/)
-* [Web3.js Documentation](https://web3js.readthedocs.io/)
-* [Django](https://www.djangoproject.com/)
-
----
 
 
